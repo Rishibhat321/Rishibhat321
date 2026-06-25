@@ -146,6 +146,7 @@ Passionate about building scalable backend systems and continuously learning mod
 * Spring Boot & Spring Security
 * Microservices & REST APIs
 * PostgreSQL & Database Design
+* Swagger / OpenAPI Documentation
 * JWT Authentication & Authorization
 * React & Modern JavaScript
 * Data Structures & Algorithms
