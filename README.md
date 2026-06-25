@@ -70,10 +70,12 @@ Passionate about building scalable backend systems and continuously learning mod
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Rishibhat321\&show_icons=true\&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishibhat321&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishibhat321&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 ---
 
 ## 🔥 GitHub Streak
