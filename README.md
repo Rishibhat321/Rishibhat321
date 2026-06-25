@@ -26,9 +26,9 @@ Passionate about building scalable backend systems and continuously learning mod
 
 ## 🚀 Tech Stack
 
-<h3 align="center">Languages</h3>
+### Languages
 
-<p align="center">
+<p>
   <a href="https://www.oracle.com/java/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
@@ -54,9 +54,9 @@ Passionate about building scalable backend systems and continuously learning mod
   </a>
 </p>
 
-<h3 align="center">Frontend</h3>
+### Frontend
 
-<p align="center">
+<p>
   <a href="https://react.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
@@ -82,9 +82,9 @@ Passionate about building scalable backend systems and continuously learning mod
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
+### Backend
 
-<p align="center">
+<p>
   <a href="https://spring.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=spring" />
   </a>
@@ -98,9 +98,9 @@ Passionate about building scalable backend systems and continuously learning mod
   </a>
 </p>
 
-<h3 align="center">Database</h3>
+### Database
 
-<p align="center">
+<p>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgresql" />
   </a>
@@ -110,9 +110,9 @@ Passionate about building scalable backend systems and continuously learning mod
   </a>
 </p>
 
-<h3 align="center">Tools & DevOps</h3>
+### Tools & DevOps
 
-<p align="center">
+<p>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
