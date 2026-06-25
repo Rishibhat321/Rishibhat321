@@ -140,6 +140,10 @@ Passionate about building scalable backend systems and continuously learning mod
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
 
+   <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jenkins" />
+  </a>
+
   <a href="https://swagger.io/" target="_blank">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
  </a>
