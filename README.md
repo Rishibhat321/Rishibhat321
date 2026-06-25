@@ -26,7 +26,7 @@ Passionate about building scalable backend systems and continuously learning mod
 
 ## 🚀 Tech Stack
 
-### Languages
+<h3 align="center">Languages</h3>
 
 <p align="center">
   <a href="https://www.oracle.com/java/" target="_blank">
@@ -54,7 +54,7 @@ Passionate about building scalable backend systems and continuously learning mod
   </a>
 </p>
 
-### Frontend
+<h3 align="center">Frontend</h3>
 
 <p align="center">
   <a href="https://react.dev/" target="_blank">
@@ -82,7 +82,7 @@ Passionate about building scalable backend systems and continuously learning mod
   </a>
 </p>
 
-### Backend
+<h3 align="center">Backend</h3>
 
 <p align="center">
   <a href="https://spring.io/" target="_blank">
@@ -98,7 +98,7 @@ Passionate about building scalable backend systems and continuously learning mod
   </a>
 </p>
 
-### Database
+<h3 align="center">Database</h3>
 
 <p align="center">
   <a href="https://www.postgresql.org/" target="_blank">
@@ -110,7 +110,7 @@ Passionate about building scalable backend systems and continuously learning mod
   </a>
 </p>
 
-### Tools & DevOps
+<h3 align="center">Tools & DevOps</h3>
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
