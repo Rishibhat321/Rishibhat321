@@ -28,32 +28,110 @@ Passionate about building scalable backend systems and continuously learning mod
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,js,ts,html,css" />
+<p align="center">
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
 </p>
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,angular,bootstrap,tailwind,materialui" />
+<p align="center">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
+
+  <a href="https://angular.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=angular" />
+  </a>
+
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=materialui" />
+  </a>
 </p>
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,maven" />
+<p align="center">
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" />
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=maven" />
+  </a>
 </p>
 
 ### Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+<p align="center">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgresql" />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
 </p>
 
 ### Tools & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
 </p>
 
 ---
