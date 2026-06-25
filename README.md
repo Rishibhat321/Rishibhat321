@@ -132,6 +132,10 @@ Passionate about building scalable backend systems and continuously learning mod
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
+
+  <a href="https://swagger.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=swagger" />
+  </a>
 </p>
 
 ---
