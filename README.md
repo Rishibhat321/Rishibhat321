@@ -94,15 +94,10 @@ Passionate about building scalable backend systems and continuously learning mod
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Rishibhat321\&theme=tokyonight)
-
----
 
 ## 🧠 DSA & Problem Solving
 
-* Solved 350+ DSA problems
+* Solved 700+ DSA problems
 * Strong understanding of Data Structures and Algorithms
 * Focused on Trees, Graphs, Dynamic Programming and Advanced Problem Solving
 
