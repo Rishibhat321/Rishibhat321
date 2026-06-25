@@ -153,6 +153,14 @@ Passionate about building scalable backend systems and continuously learning mod
   </a>
 </p>
 
+### Cloud
+
+<p>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+</p>
+
 ---
 
 ## 🎯 Areas of Expertise
