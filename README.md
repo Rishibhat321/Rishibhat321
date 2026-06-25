@@ -110,6 +110,13 @@ Passionate about building scalable backend systems and continuously learning mod
   </a>
 </p>
 
+### Testing
+
+<p>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" />
+</p>
+
 ### Tools & DevOps
 
 <p>
@@ -152,6 +159,7 @@ Passionate about building scalable backend systems and continuously learning mod
 * PostgreSQL & Database Design
 * Swagger / OpenAPI Documentation
 * JWT Authentication & Authorization
+* Unit & Integration Testing (JUnit, Mockito)
 * React & Modern JavaScript
 * Data Structures & Algorithms
 
