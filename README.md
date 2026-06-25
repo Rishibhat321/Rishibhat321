@@ -20,7 +20,7 @@ Passionate about building scalable backend systems and continuously learning mod
 * Backend Development
 * Distributed Systems
 * Cloud Technologies
-* Full Stack Development
+* Scalable Software Architecture
 
 ---
 
@@ -58,21 +58,15 @@ Passionate about building scalable backend systems and continuously learning mod
 
 ---
 
-## 📚 Frameworks & Concepts
+## 🎯 Areas of Expertise
 
-* Spring Boot
-* Spring Core
-* Spring Security
-* JWT Authentication
-* Hibernate / JPA
-* Microservices
-* REST APIs
-* OOP
-* DBMS
-* Operating Systems
-* SQL
-* State Management
-* RxJS
+* Java Backend Development
+* Spring Boot & Spring Security
+* Microservices & REST APIs
+* PostgreSQL & Database Design
+* JWT Authentication & Authorization
+* React & Modern JavaScript
+* Data Structures & Algorithms
 
 ---
 
@@ -94,18 +88,18 @@ Passionate about building scalable backend systems and continuously learning mod
 
 ---
 
-
 ## 🧠 DSA & Problem Solving
 
 * Solved 700+ DSA problems
-* Strong understanding of Data Structures and Algorithms
-* Focused on Trees, Graphs, Dynamic Programming and Advanced Problem Solving
+* Strong foundation in Data Structures & Algorithms
+* Experienced with Trees, Graphs, Dynamic Programming, and Greedy Algorithms
+* Regularly practice problem solving on LeetCode and GeeksforGeeks
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/rishita-bhatnagar/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -113,10 +107,6 @@ Passionate about building scalable backend systems and continuously learning mod
 
 <a href="https://github.com/Rishibhat321" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://gitlab.com/rishitabhatnagar22" target="_blank">
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/rishita_220/" target="_blank">
