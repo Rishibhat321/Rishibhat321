@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rishita Bhatnagar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Microservices+Enthusiast;DSA+%7C+Problem+Solving;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;DSA+%7C+Problem+Solving;Always+Learning+New+Technologies;Building+Scalable+Backend+Systems;Open+to+Software+Engineering+Opportunities" />
 </p>
 
 ## 💻 Backend Developer | Java | Spring Boot | Spring Security | Microservices | PostgreSQL
@@ -12,8 +12,8 @@ Passionate about building scalable backend systems and continuously learning mod
 
 * Microservices
 * System Design
-* Python
-* FastAPI
+* Redis
+* Python | FastAPI
 
 🚀 Interested In:
 
