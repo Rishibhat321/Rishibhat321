@@ -84,18 +84,11 @@ Passionate about building scalable backend systems and continuously learning mod
 
 ---
 
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Rishibhat321\&theme=tokyo-night)
-
----
-
 ## 🧠 DSA & Problem Solving
 
 * Solved 700+ DSA problems
 * Strong foundation in Data Structures & Algorithms
 * Experienced with Trees, Graphs, Dynamic Programming, and Greedy Algorithms
-* Regularly practice problem solving on LeetCode and GeeksforGeeks
 
 ---
 
