@@ -134,6 +134,10 @@ Passionate about building scalable backend systems and continuously learning mod
   </a>
 
   <a href="https://swagger.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+ </a>
+
+  <a href="https://swagger.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=swagger" />
   </a>
 </p>
