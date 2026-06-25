@@ -35,13 +35,13 @@ Passionate about building scalable backend systems and continuously learning mod
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,angular" />
+  <img src="https://skillicons.dev/icons?i=react,redux,angular,bootstrap,tailwind,materialui" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,maven" />
 </p>
 
 ### Database
@@ -53,7 +53,7 @@ Passionate about building scalable backend systems and continuously learning mod
 ### Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,docker,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
 </p>
 
 ---
